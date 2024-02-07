@@ -4,8 +4,8 @@ from telas import *
 from botoes import *
 import requests
 import certifi
-from bannervenda import BannerVenda
 import os
+from bannervenda import BannerVenda
 from functools import partial
 from myfirebase import MyFirebase
 from bannervendedor import BannerVendedor
